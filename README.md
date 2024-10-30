@@ -36,7 +36,7 @@ This repository only contains s small part of our dataset. The whole dataset can
 
 ## Citation
 ```bibtex
-@article{hu19_sgaze,
+@article{hu19sgaze,
   title = {SGaze: A Data-Driven Eye-Head Coordination Model for Realtime Gaze Prediction},
   author = {Hu, Zhiming and Zhang, Congyi and Li, Sheng and Wang, Guoping and Manocha, Dinesh},
   journal = {IEEE Transactions on Visualization and Computer Graphics (TVCG)},
